@@ -1,0 +1,4 @@
+#Mon Dec 10 13:04:18 CST 2018
+base.0=D\:\\Android\\work\\Bmob_Sample_lost_foundS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=D\:\\Android\\work\\Bmob_Sample_lost_foundS\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
